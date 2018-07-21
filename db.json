@@ -1,0 +1,33 @@
+{
+"profiles":[
+  {
+   "id":1,
+   "name":"test1",
+   "email":"test@gmail.com",
+   "mobile":1234567890,
+   "password":init1234
+  },
+  {
+   "id":2,
+   "name":"test2",
+   "email":"test2@gmail.com",
+   "mobile":1934567890,
+   "password":init1234
+  },
+  {
+   "id":3,
+   "name":"test3",
+   "email":"test3@gmail.com",
+   "mobile":1294567890,
+   "password":init1234
+  },
+  {
+   "id":4,
+   "name":"test4",
+   "email":"test4@gmail.com",
+   "mobile":1239567890,
+   "password":init1234
+  },
+  ]
+  
+}
